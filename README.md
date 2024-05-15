@@ -1,4 +1,4 @@
-![alt text](./images/viktor-bystrov-mn7eTQFHNHc-unsplash.jpg "Peak of Mt. Elbert")
+![alt text](./images/readme-img.jpg "Quench beverage")
 
 # QU3NCH! beverage 
 Athlete-turned-entrepreneur Sarah Smith created QU3NCH!, a unique beverage packed with electrolytes and vitamins for optimal hydration. Unlike sugary sports drinks, QU3NCH! offers delicious flavors (lemon, berry, orange) and eco-friendly packaging, appealing to athletes and health-conscious consumers alike. With its focus on performance, wellness, and sustainability, QU3NCH! is taking the beverage industry by storm.
